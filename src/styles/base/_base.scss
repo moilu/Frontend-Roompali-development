@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: $titles;
+  font-size: 24px;
+}
+h3 {
+  padding: 20px;
+  text-align: center;
+  background: $primary;
+  font-family: $titles;
+}
+
+p {
+  font-family: $paragraphs;
+  font-size: 18px;
+}
+
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+}
